@@ -1,1 +1,1 @@
-https://jazzcloud.pages.dev/* http://jazzcloud.pages.dev/:splat 301!
+https://jazzcloud.pages.dev/* http://jazzcloud.pages.dev/$1 301!
